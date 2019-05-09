@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampoMinado", "AulaTDD\CampoMinado.csproj", "{F9709466-D282-443F-8655-E4D179C366BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampoMinado.Test", "CampoMinado.Test\CampoMinado.Test.csproj", "{67D096D1-1F23-4220-8A1F-4CC1DF48C0CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9709466-D282-443F-8655-E4D179C366BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9709466-D282-443F-8655-E4D179C366BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9709466-D282-443F-8655-E4D179C366BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9709466-D282-443F-8655-E4D179C366BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67D096D1-1F23-4220-8A1F-4CC1DF48C0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D096D1-1F23-4220-8A1F-4CC1DF48C0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D096D1-1F23-4220-8A1F-4CC1DF48C0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D096D1-1F23-4220-8A1F-4CC1DF48C0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {775759D9-DF23-4450-B508-E72CDA719EF6}
+	EndGlobalSection
+EndGlobal

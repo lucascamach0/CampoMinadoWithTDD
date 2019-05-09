@@ -1,0 +1,9 @@
+C:\Users\lcamacho\source\repos\AulaTDD\AulaTDD\bin\Debug\netcoreapp2.2\CampoMinado.deps.json
+C:\Users\lcamacho\source\repos\AulaTDD\AulaTDD\bin\Debug\netcoreapp2.2\CampoMinado.dll
+C:\Users\lcamacho\source\repos\AulaTDD\AulaTDD\bin\Debug\netcoreapp2.2\CampoMinado.pdb
+C:\Users\lcamacho\source\repos\AulaTDD\AulaTDD\obj\Debug\netcoreapp2.2\CampoMinado.csproj.CoreCompileInputs.cache
+C:\Users\lcamacho\source\repos\AulaTDD\AulaTDD\obj\Debug\netcoreapp2.2\CampoMinado.AssemblyInfoInputs.cache
+C:\Users\lcamacho\source\repos\AulaTDD\AulaTDD\obj\Debug\netcoreapp2.2\CampoMinado.AssemblyInfo.cs
+C:\Users\lcamacho\source\repos\AulaTDD\AulaTDD\obj\Debug\netcoreapp2.2\CampoMinado.dll
+C:\Users\lcamacho\source\repos\AulaTDD\AulaTDD\obj\Debug\netcoreapp2.2\CampoMinado.pdb
+C:\Users\lcamacho\source\repos\AulaTDD\AulaTDD\obj\Debug\netcoreapp2.2\CampoMinado.csprojAssemblyReference.cache

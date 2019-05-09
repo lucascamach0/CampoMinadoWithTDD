@@ -1,0 +1,17 @@
+C:\Users\lcamacho\source\repos\AulaTDD\CampoMinado.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\lcamacho\source\repos\AulaTDD\CampoMinado.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\lcamacho\source\repos\AulaTDD\CampoMinado.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\lcamacho\source\repos\AulaTDD\CampoMinado.Test\bin\Debug\netcoreapp2.2\CampoMinado.Test.deps.json
+C:\Users\lcamacho\source\repos\AulaTDD\CampoMinado.Test\bin\Debug\netcoreapp2.2\CampoMinado.Test.runtimeconfig.json
+C:\Users\lcamacho\source\repos\AulaTDD\CampoMinado.Test\bin\Debug\netcoreapp2.2\CampoMinado.Test.runtimeconfig.dev.json
+C:\Users\lcamacho\source\repos\AulaTDD\CampoMinado.Test\bin\Debug\netcoreapp2.2\CampoMinado.Test.dll
+C:\Users\lcamacho\source\repos\AulaTDD\CampoMinado.Test\bin\Debug\netcoreapp2.2\CampoMinado.Test.pdb
+C:\Users\lcamacho\source\repos\AulaTDD\CampoMinado.Test\bin\Debug\netcoreapp2.2\CampoMinado.dll
+C:\Users\lcamacho\source\repos\AulaTDD\CampoMinado.Test\bin\Debug\netcoreapp2.2\CampoMinado.pdb
+C:\Users\lcamacho\source\repos\AulaTDD\CampoMinado.Test\obj\Debug\netcoreapp2.2\CampoMinado.Test.csprojAssemblyReference.cache
+C:\Users\lcamacho\source\repos\AulaTDD\CampoMinado.Test\obj\Debug\netcoreapp2.2\CampoMinado.Test.csproj.CoreCompileInputs.cache
+C:\Users\lcamacho\source\repos\AulaTDD\CampoMinado.Test\obj\Debug\netcoreapp2.2\CampoMinado.Test.AssemblyInfoInputs.cache
+C:\Users\lcamacho\source\repos\AulaTDD\CampoMinado.Test\obj\Debug\netcoreapp2.2\CampoMinado.Test.AssemblyInfo.cs
+C:\Users\lcamacho\source\repos\AulaTDD\CampoMinado.Test\obj\Debug\netcoreapp2.2\CampoMinado.Test.csproj.CopyComplete
+C:\Users\lcamacho\source\repos\AulaTDD\CampoMinado.Test\obj\Debug\netcoreapp2.2\CampoMinado.Test.dll
+C:\Users\lcamacho\source\repos\AulaTDD\CampoMinado.Test\obj\Debug\netcoreapp2.2\CampoMinado.Test.pdb
